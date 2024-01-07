@@ -115,3 +115,121 @@
     object-fit: cover;
     object-position: center;
 }
+
+.navbar {
+    font-weight: bold;
+}
+
+.warna1{
+    background-color: #E80F88; 
+}
+
+.warna2 {
+    background-color: #FFA1CF;
+}
+
+.warna3{
+    background-color: #FFD6EC;
+}
+
+.warna4{
+    background-color: #FF74B1;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../gambar/bg3.png');
+}
+
+.highlighted-kategori {
+    height: 250px;
+    margin: 60px 1px;
+
+}
+
+.kategori-dress{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../gambar/katedress.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-heels{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../gambar/kateheels.jpeg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.kategori-anting{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../gambar/kateanting.jpeg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.kategori-cincin{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../gambar/katecincin.jpeg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.kategori-kalung{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../gambar/katekalung.jpeg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.kategori-gelang{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../gambar/kategelang.jpeg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: #FF74B1;
+}
+
+.text-harga{
+    font-size: 22px;
+    color: #FF74B1;
+}
+
+.image-box {
+    height: 200px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(255,105,180);
+}
+
+.content-subscribe a {
+    color: #fff;
+}
+
+.banner2 {
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../gambar/bg3.png');
+    background-position: 50% 35%;
+}
+
+.produk-terkait-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
